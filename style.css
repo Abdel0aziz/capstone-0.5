@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+
+}
+ul{
+    margin-left: -30px;
+  margin-top: -20px;
+  list-style-position:inside;
+
+}
+#More{
+
+    list-style-type: none ;
+      font-weight: bold;
+}
